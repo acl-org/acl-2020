@@ -26,7 +26,7 @@ The 58th Annual Meeting of the Association for Computational Linguistics (ACL 20
 <table style="width: 97%">
     <tbody>
         <tr>
-            <td style="width: 40%;">[Anonymity period](#important-anonymity-period) begins</td>
+            <td style="width: 40%;"><a href="#important-anonymity-period">Anonymity period</a> begins</td>
             <td style="width: 30%;">Sunday</td>
             <td>November 9, 2019</td>
         </tr>
