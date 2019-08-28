@@ -20,7 +20,7 @@ ACL is the premier conference of the field of computational linguistics, coverin
 <table style="width: 90%">
     <tbody>
         <tr>
-            <td style="width: 40%;">[Anonymity period](calls/papers/#important-anonymity-period) begins</td>
+            <td style="width: 40%;"><a href="calls/papers/#important-anonymity-period">Anonymity period</a> begins</td>
             <td style="width: 30%;">Sunday</td>
             <td>November 9, 2019</td>
         </tr>
