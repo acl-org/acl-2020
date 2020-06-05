@@ -265,7 +265,7 @@ Finally, we analyze the acceptance rates for each country based on contact autho
 
 <table>
   <tr>
-    <th>Country</th>
+    <th>Country/Region</th>
     <th>Code</th>
     <th>Count</th>
     <th>Accepted</th>
