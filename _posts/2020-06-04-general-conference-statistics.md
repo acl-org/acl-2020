@@ -256,16 +256,16 @@ Acceptance rates for each track ranged from 17.9% to 41.7% as follows.
 
 ## 4. Country Statistics
 
-We follow ACL 2019 in extracting the country listed in Softconf by the contact author and calculating statistics on that set.  There were 57 countries represented in this subset. We list the 25 countries with the most submissions below.  China had the most submissions with 1,084, followed closely by the United States. In ACL 2019, the United States had 820 submissions and China had 817.  Germany had the third most submissions with 136.
+We follow ACL 2019 in extracting the country and region listed in Softconf by the contact author and calculating statistics on that set.  There were 57 countries and regions represented in this subset. We list the 25 countries and regions with the most submissions below.  China had the most submissions with 1,084, followed closely by the United States. In ACL 2019, the United States had 820 submissions and China had 817.  Germany had the third most submissions with 136.
 
 {% include gallery id="submissions-per-country" %}
 
-Finally, we analyze the acceptance rates for each country based on contact author. The following table lists all 57 countries in alphabetical order. In the end, 37 countries have papers in the conference based on contact author. The five countries with the most accepted papers were the US (305), China (185), Great Britain (50), Germany (44), and Japan (24). As observed by the ACL2019 Program Chairs, the distribution is too skewed for a fair comparison of acceptance rates. As in their analysis, if we consider the top 15 countries in terms of number of submissions, the countries with the highest acceptance rates are Israel (40.9%), Great Britain (31.1%), United States (29.4%), Germany (29.3%), and a tie between Hong Kong and Singapore, both with 26.7%. This list is almost the same as last year, except Great Britain was not in the top five.
+Finally, we analyze the acceptance rates for each country/region based on contact author. The following table lists all 57 countries and regions in alphabetical order. In the end, 37 countries and regions have papers in the conference based on contact author. The five countries with the most accepted papers were the US (305), China (185), Great Britain (50), Germany (44), and Japan (24). As observed by the ACL2019 Program Chairs, the distribution is too skewed for a fair comparison of acceptance rates. As in their analysis, if we consider the top 15 countries and regions in terms of number of submissions, the countries and regions with the highest acceptance rates are Israel (40.9%), Great Britain (31.1%), United States (29.4%), Germany (29.3%), and a tie between Hong Kong and Singapore, both with 26.7%. This list is almost the same as last year, except Great Britain was not in the top five.
 
 
 <table>
   <tr>
-    <th>Country</th>
+    <th>Country/Region</th>
     <th>Code</th>
     <th>Count</th>
     <th>Accepted</th>
