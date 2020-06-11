@@ -9,9 +9,9 @@ categories:
     blog
 ---
 
-<b>Submission Deadline: Tuesday, <strike>June 5</strike> June 9, 2020</b>
+<b>Submission Deadline: Friday, <strike>June 9</strike> June 12, 2020</b>
 
-NOTE: Those who already volunteered following our earlier call for volunteers, can we trouble you to please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link) so we can ensure you get free registration.
+NOTE: Those who already volunteered following our earlier call for website development volunteers, can we trouble you to please fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link) or [this Microsoft Office form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WY4w_ivCkJNKnHxP2pxjk6pUNlNUMFdSUUtSQ0haRVlYVDFEQTcxWEEzRC4u) (incase the Google form is not accessible) so we can ensure you get free registration.
 
 <h2>VOLUNTEER/SCHOLARSHIP PROGRAM</h2>
 
@@ -32,12 +32,14 @@ Preference will be given to students who are presenting a paper in the main conf
 
 <h2>SUBMISSION PROCEDURE</h2>
 
-Applicants for the Volunteer/scholarship Program should fill [this application form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link)
+Applicants for the Volunteer/scholarship Program should fill <b>one of the application forms</b> below (not both):
+- [Google application form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link) OR
+- [Microsoft Office application form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WY4w_ivCkJNKnHxP2pxjk6pUNlNUMFdSUUtSQ0haRVlYVDFEQTcxWEEzRC4u) 
 
 <h2>TIMELINE</h2>
 
-Application deadline: Tuesday, <strike>June 5</strike> June 9, 2020 <br/>
-Notification of acceptance: Monday, June 15, 2020 <br/>
+Application deadline: Friday, <strike>June 9</strike> June 12, 2020 <br/>
+Notification of acceptance: Friday, June 19, 2020 <br/>
 
 <h2>CONTACT</h2>
 
