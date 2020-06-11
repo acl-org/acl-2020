@@ -81,6 +81,7 @@ Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicat
 <h3>Publicity Chairs</h3>
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington <br/>
 [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/), University Düsseldorf, Germany
+[Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), Tsinghua University, China
 
 <!--<h3>Remote Presentation Chairs</h3>
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
