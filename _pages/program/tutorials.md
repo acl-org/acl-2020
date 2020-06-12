@@ -59,23 +59,23 @@ Note that the time slots are mentioned in Seattle, USA Time. Some tutorials are 
 
 ### 6:30 AM to 9:30 AM (Seattle Time)
 
-T1: Interpretability and Analysis in Neural NLP <br/>
-T5: Achieving Common Ground in Multi-modal Dialogue <br/>
-T7: Integrating Ethics into the NLP Curriculum
+[T1](#t1-interpretability-and-analysis-in-neural-nlp-cutting-edge-): Interpretability and Analysis in Neural NLP <br/>
+[T5](#t5-achieving-common-ground-in-multi-modal-dialogue-cutting-edge-): Achieving Common Ground in Multi-modal Dialogue <br/>
+[T7](#t7-integrating-ethics-into-the-nlp-curriculum-introductory-): Integrating Ethics into the NLP Curriculum
 
 ### 10:30 AM to 2:00 PM (Seattle Time)
 
-T1: Interpretability and Analysis in Neural NLP <br/>
-T3: Reviewing Natural Language Processing Research <br/>
-T4: Stylized Text Generation: Approaches and Applications <br/>
-T7: Integrating Ethics into the NLP Curriculum 
+[T1](#t1-interpretability-and-analysis-in-neural-nlp-cutting-edge-): Interpretability and Analysis in Neural NLP <br/>
+[T3](#t3-reviewing-natural-language-processing-research-introductory-): Reviewing Natural Language Processing Research <br/>
+[T4](#t4-stylized-text-generation-approaches-and-applications-cutting-edge-): Stylized Text Generation: Approaches and Applications <br/>
+[T7](#t7-integrating-ethics-into-the-nlp-curriculum-introductory-): Integrating Ethics into the NLP Curriculum 
 
 ### 3:00 PM to 6:30 PM (Seattle Time)
 
-T2: Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web <br/>
-T5: Achieving Common Ground in Multi-modal Dialogue <br/>
-T6: Commonsense Reasoning for Natural Language Processing <br/>
-T8: Open-Domain Question Answering 
+[T2](#t2-multi-modal-information-extraction-from-text-semi-structured-and-tabular-data-on-the-web-cutting-edge-): Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web <br/>
+[T5](#t5-achieving-common-ground-in-multi-modal-dialogue-cutting-edge-): Achieving Common Ground in Multi-modal Dialogue <br/>
+[T6](#t6-commonsense-reasoning-for-natural-language-processing-introductory-): Commonsense Reasoning for Natural Language Processing <br/>
+[T8](#t8-open-domain-question-answering-cutting-edge-): Open-Domain Question Answering 
 
 ## Tutorial Details
 
