@@ -51,7 +51,7 @@ t8:
     title: ""
 ---
 
-## Schedule
+## Tutorial Schedule
 
 The following tutorials will be held on Sunday, July 5th, 2020. Note that the time slots are mentioned in Seattle, USA Time. Some tutorials are held twice and some are held once.  
 
