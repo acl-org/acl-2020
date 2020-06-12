@@ -51,7 +51,31 @@ t8:
     title: ""
 ---
 
-The following tutorials have been accepted for ACL2020 and will be held on Sunday, July 5th, 2020.
+## Tutorial Schedule
+
+The following tutorials will be held on Sunday, July 5th, 2020. Note that the time slots are mentioned in Seattle, USA Time. Some tutorials are held twice and some are held once.  
+
+### 6:30 AM to 9:30 AM (Seattle Time)
+
+T1: Interpretability and Analysis in Neural NLP <br/>
+T5: Achieving Common Ground in Multi-modal Dialogue <br/>
+T7: Integrating Ethics into the NLP Curriculum
+
+### 10:30 AM to 2:00 PM (Seattle Time)
+
+T1: Interpretability and Analysis in Neural NLP <br/>
+T3: Reviewing Natural Language Processing Research <br/>
+T4: Stylized Text Generation: Approaches and Applications <br/>
+T7: Integrating Ethics into the NLP Curriculum 
+
+### 3:00 PM to 6:30 PM (Seattle Time)
+
+T2: Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web <br/>
+T5: Achieving Common Ground in Multi-modal Dialogue <br/>
+T6: Commonsense Reasoning for Natural Language Processing <br/>
+T8: Open-Domain Question Answering 
+
+## Tutorial Details
 
 ### T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
 *Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
