@@ -51,13 +51,13 @@ t8:
     title: ""
 ---
 
-## Tutorial Schedule
+## Schedule
 
 The following tutorials will be held on Sunday, July 5th, 2020. Note that the time slots are mentioned in Seattle, USA Time. Some tutorials are held twice and some are held once.  
 
 ### 6:30 AM to 9:30 AM (Seattle Time)
 
-T1: Interpretability and Analysis in Neural NLP <br/>
+[T1](#t1-interpretability-and-analysis-in-neural-nlp-cutting-edge-): Interpretability and Analysis in Neural NLP <br/>
 T5: Achieving Common Ground in Multi-modal Dialogue <br/>
 T7: Integrating Ethics into the NLP Curriculum
 
@@ -75,7 +75,7 @@ T5: Achieving Common Ground in Multi-modal Dialogue <br/>
 T6: Commonsense Reasoning for Natural Language Processing <br/>
 T8: Open-Domain Question Answering 
 
-## Tutorial Details
+## Details
 
 ### T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
 *Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
