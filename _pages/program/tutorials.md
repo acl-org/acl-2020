@@ -53,7 +53,7 @@ t8:
 
 The following tutorials will be held on Sunday, July 5th, 2020.
 
-## Schedule
+## Tutorial Schedule
 
 Note that the time slots are mentioned in Seattle, USA Time. Some tutorials are held twice and some are held once.  
 
@@ -77,7 +77,7 @@ T5: Achieving Common Ground in Multi-modal Dialogue <br/>
 T6: Commonsense Reasoning for Natural Language Processing <br/>
 T8: Open-Domain Question Answering 
 
-## Details
+## Tutorial Details
 
 ### T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
 *Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
