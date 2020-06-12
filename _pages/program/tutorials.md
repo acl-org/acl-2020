@@ -57,7 +57,7 @@ The following tutorials will be held on Sunday, July 5th, 2020. Note that the ti
 
 ### 6:30 AM to 9:30 AM (Seattle Time)
 
-[T1](#t1-interpretability-and-analysis-in-neural-nlp-cutting-edge-): Interpretability and Analysis in Neural NLP <br/>
+T1: Interpretability and Analysis in Neural NLP <br/>
 T5: Achieving Common Ground in Multi-modal Dialogue <br/>
 T7: Integrating Ethics into the NLP Curriculum
 
