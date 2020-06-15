@@ -22,11 +22,11 @@ Priscilla Rasmussen, ACL<br/>
 [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
 <h3>Tutorial Chairs</h3>
-[Agata Savary](http://www.info.univ-tours.fr/~savary/), University of Tours, France<br/>
+[Agata Savary](http://www.info.univ-tours.fr/~savary/), University of Tours<br/>
 [Yue Zhang](https://frcchang.github.io/), Westlake University
 
 <h3>Workshop Chairs</h3>
-[Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning-prof-dr-milica-gasic/our-team/team/cv-gasic.html),  Heinrich Heine University Düsseldorf<br/>
+[Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning-prof-dr-milica-gasic/our-team/team/cv-gasic.html),  Heinrich Heine University of Düsseldorf<br/>
 Dilek Hakkani-Tur, Amazon Alexa AI<br/>
 [Saif M. Mohammad](https://www.saifmohammad.com/), National Research Council Canada<br/>
 Ves Stoyanov, Facebook AI 
@@ -80,8 +80,8 @@ Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicat
 
 <h3>Publicity Chairs</h3>
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington <br/>
-[Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/), University Düsseldorf, Germany <br/>
-[Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), Tsinghua University, China
+[Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/), University of Düsseldorf <br/>
+[Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), Tsinghua University
 
 <!--<h3>Remote Presentation Chairs</h3>
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
