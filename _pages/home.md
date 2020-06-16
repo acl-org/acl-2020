@@ -17,6 +17,9 @@ excerpt: "<br/><br/>"
 <h2>News</h2>
 
 
+**June 16, 2020**. Checkout the new blogpost on [call for live microblogging volunteer](/blog/call-for-live-microblogging-volunteers). If you are an author, and you would rather not have your paper live microblogged, please see the post for details.
+{: .notice--info} 
+
 **June 8, 2020**. The [call for volunteer](/blog/call-for-volunteers) deadline has been extended to June 12! 
 {: .notice--info} 
 
@@ -24,9 +27,6 @@ excerpt: "<br/><br/>"
 {: .notice--info} 
 
 **May 29, 2020**. The virtual ACL 2020 is an opportunity to connect participants across the world. The ACL 2020 Diversity & Inclusion committee is soliciting applications with the goal of supporting prospective conference attendees who are facing financial difficulties and would like to participate in ACL 2020. Through this effort, we hope to broaden participation of researchers, especially researchers who are underrepresented in our community. Please fill out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=y3NlOXjzaEubyBV1XAxR8-nGpYowZ2VHg83e19kLLsdUNFpGNzZVWEZMMktFMVM5T1FIVDZZT0k4US4u) by June 7. Decisions will be sent out by June 19th, in advance of the early registration deadline. We thank the ACL 2020 sponsors, particularly the Diversity & Inclusion sponsors, for their support. If you have any questions, please email [acl2020-diversity-inclusion-chairs@googlegroups.com](mailto:acl2020-diversity-inclusion-chairs@googlegroups.com). 
-{: .notice--info} 
-
-**May 29, 2020**. Check out the latest [blog post](/blog/intro-to-conference-infrastructure/) to know more about the virtual infrastructure for ACL2020! 
 {: .notice--info} 
 
 <div class="text-center">
