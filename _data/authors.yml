@@ -42,22 +42,9 @@ accessibility-chairs-v2:
   bio         : "Naomi Saphra, Sushant Kafle &amp; Masoud Rouhizadeh"
   avatar      : "assets/images/logos/acl-logo.png"
 
-amanda-graham:
-  name        : "Amanda Stent & Graham Neubig"
-
-nitin:
-  name        : "Nitin Madnani"
-  uri         : "https://desilinguist.org"
-  bio         : "Website &amp; App Chair | Senior Research Scientist, Educational Testing Service"
-  avatar      : "https://secure.gravatar.com/avatar/65a5e38cb0ce9a77841d3567fb3cc156.png?r=PG&s=150"
-  twitter     : "haikuman"
-  github      : "desilinguist"
-
-rada:
-  name        : "Rada Mihalcea"
-  uri         : "https://web.eecs.umich.edu/~mihalcea/"
-  bio         : "ACL VP-Elect | Professor, Computer Science &amp; Engineering, University of Michigan"
-  avatar      : "assets/images/avatars/Rada.jpg"
-  email       : "mihalcea at umich dot edu"
-  twitter     : "radamihalcea"
+publicity-chairs:
+  name        : "Publicity Chairs"
+  email       : "ACL2020publicity@uw.edu"
+  bio         : "Emily Bender & Esther Seyffarth"
+  avatar      : "assets/images/logos/acl-logo.png"
 
