@@ -55,9 +55,9 @@ The following tutorials will be held on Sunday, July 5th, 2020.
 
 ## Tutorial Schedule
 
-Note that the time slots are mentioned in Seattle, USA Time. Some tutorials are held twice and some are held once.  
+Note that the time slots are mentioned in Seattle, Pacific Daytime Time (UTC/GMT-7). Some tutorials are held twice and some are held once.  
 
-### 6:30 AM to 9:30 AM (Seattle Time)
+### 6:00 AM to 9:30 AM (Seattle Time)
 
 [T1](#t1-interpretability-and-analysis-in-neural-nlp-cutting-edge-): Interpretability and Analysis in Neural NLP <br/>
 [T5](#t5-achieving-common-ground-in-multi-modal-dialogue-cutting-edge-): Achieving Common Ground in Multi-modal Dialogue <br/>
