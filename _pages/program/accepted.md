@@ -1336,9 +1336,6 @@ Bodhisattwa Prasad Majumder, Navneet Potti, Sandeep Tata, James Bradley Wendt, Q
 <b>Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation</b><br/>
 Zhiliang Tian, Wei Bi, Dongkyu Lee, Lanqing Xue, Yiping Song, Xiaojiang Liu and Nevin L. Zhang
 
-<b>Rethinking Dialogue State Tracking with Reasoning</b><br/>
-Lizi Liao, Yunshan Ma, Wenqiang Lei and Tat-Seng Chua
-
 <b>Review-based Question Generation with Adaptive Instance Transfer and Augmentation</b><br/>
 Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam and Luo Si
 
