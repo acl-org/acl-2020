@@ -15,7 +15,7 @@ For the final titles/authors, please refer to the proceedings on the anthology w
 
 ## Main Conference
 
-There were <b>571 Long Papers</b> and <b>208 Short Papers</b> accepted.
+There were <b>570 Long Papers</b> and <b>208 Short Papers</b> accepted.
 
 ### Long Papers
 <br/>
