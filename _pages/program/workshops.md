@@ -56,6 +56,10 @@ Workshop on Advances in Language and Vision Research. Promoting the frontier of 
 The 5th Workshop on Representation Learning for NLP is a large workshop on vector space models of meaning, neural networks, spectral methods, with interdisciplinary keynotes, posters, panel. <br/>
 *Organizers: Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein*
 
+### [W20: NLPCovid](https://www.nlpcovid19workshop.org/)
+We invite submissions related to any aspect of natural language processing (NLP) applied to combat the COVID-19 pandemic, in an open, rapid review format that will allow this active and late-breaking research to be shared and discussed. <br/>
+*Organizers: Kevin Cohen, Mark Dredze, Emilio Ferrara, Raina MacIntyre, Jonathan May, Robert Munro, Cecile Paris, Karin Verspoor, Byron Wallace*
+
 ## July 10
 
 ### [W11: NLI](https://nli-acl2020.github.io/)
