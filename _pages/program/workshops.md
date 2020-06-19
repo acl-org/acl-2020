@@ -58,7 +58,7 @@ The 5th Workshop on Representation Learning for NLP is a large workshop on vecto
 
 ### [W20: NLPCovid](https://www.nlpcovid19workshop.org/)
 We invite submissions related to any aspect of natural language processing (NLP) applied to combat the COVID-19 pandemic, in an open, rapid review format that will allow this active and late-breaking research to be shared and discussed. <br/>
-*Organizers: Kevin Cohen, Mark Dredze, Emilio Ferrara, Raina MacIntyre, Jonathan May, Robert Munro, Cecile Paris, Karin Verspoor, Byron Wallace*
+*Organizers: Karin Verspoor, Kevin Cohen, Mark Dredze, Emilio Ferrara, Raina MacIntyre, Jonathan May, Robert Munro, Cecile Paris, Byron Wallace*
 
 ## July 10
 
