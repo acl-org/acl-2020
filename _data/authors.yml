@@ -1,9 +1,15 @@
 # Authors
 
 program-chairs:
-  name        : "Program Co-Chairs"
+  name        : "Program Chairs"
   email       : "ACL2020ProgramChairs@gmail.com"
   bio         : "Joyce Chai, Natalie Schluter, and Joel Tetreault"
+  avatar      : "assets/images/logos/acl-logo.png"
+
+program-chairs:
+  name        : "Tutorial Chairs"
+  email       : "agata.savary@univ-tours.fr &amp; yue.zhang@wias.org.cn"
+  bio         : "Agata Savary and Yue Zhang"
   avatar      : "assets/images/logos/acl-logo.png"
 
 remote-presentation-chairs:
