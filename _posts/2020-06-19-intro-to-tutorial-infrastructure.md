@@ -1,11 +1,12 @@
 ---
-title: "Introduction to the Main Conference Infrastructure"
+title: "Introduction to the organisation and infrastructure of ACL 2020 tutorials"
 author: tutorial-chairs
 author_profile: true
 excerpt: ""
 tags:
   virtual
-  program
+  infrastructure
+  tutorials
 categories:
     blog
 
