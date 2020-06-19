@@ -1,5 +1,5 @@
 ---
-title: "Introduction to the organisation and infrastructure of ACL 2020 tutorials"
+title: "Introduction to the organization and infrastructure of ACL 2020 tutorials"
 author: tutorial-chairs
 author_profile: true
 excerpt: ""
