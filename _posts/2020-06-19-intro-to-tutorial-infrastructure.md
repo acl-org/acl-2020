@@ -24,7 +24,7 @@ timezones:
 
 <b>Tutorial Chairs (Agata Savary and Yue Zhang) and General Chair (Dan Jurafsky), for the entire Organizing Committee</b>
 
-It is our pleasure to give you some more details on the organization and the virtual infrastructure of ACL 2020  tutorials on July 5!
+It is our pleasure to give you some more details on the organization and the virtual infrastructure of ACL 2020  tutorials on July 5th!
 
 As mentioned in our earlier [post](https://acl2020.org/blog/intro-to-conference-infrastructure/), we will be using SlidesLive, Zoom, RocketChat and a special web portal for a virtual conference. Our goal is to enable participation around the world and maximize inclusion, engagement, and learning in a safe environment.
 
