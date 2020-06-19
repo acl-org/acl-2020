@@ -6,7 +6,7 @@ program-chairs:
   bio         : "Joyce Chai, Natalie Schluter, and Joel Tetreault"
   avatar      : "assets/images/logos/acl-logo.png"
 
-program-chairs:
+tutorial-chairs:
   name        : "Tutorial Chairs"
   email       : "agata.savary@univ-tours.fr &amp; yue.zhang@wias.org.cn"
   bio         : "Agata Savary and Yue Zhang"
