@@ -51,7 +51,8 @@ t8:
     title: ""
 ---
 
-The following tutorials will be held on Sunday, July 5th, 2020.
+The following tutorials will be held on Sunday, July 5th, 2020. 
+Checkout [this blog post](/blog/intro-to-tutorial-infrastructure) by tutorial chairs to learn more about the new virtual format of tutorials.
 
 ## Tutorial Schedule
 
