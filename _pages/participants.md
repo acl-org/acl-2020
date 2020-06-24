@@ -15,7 +15,7 @@ toc_icon: "cog"
 
 For certificates of attendance, paid-in-full invoices (to use as receipts), and related documents required by your home institutions, please contact [Pat Kirby](mailto:acl.PatKirby@gmail.com). For other more general information, please contact [Priscilla Rasmusse](mailto:acl.rasmussen@gmail.com).
 
-### What is the recommended way of using this site and navigating the conference?
+<!--### What is the recommended way of using this site and navigating the conference?
 
 All of ACL 2020 will be accessed through the main webpage. You can access all parts of the conference using the top menu bar. Check the Schedule to know when the live sessions for speakers Q&A and posters are taking place. You can navigate all the papers in the Papers section: you can search for keywords and authors, looking through all papers by skimming titles, or using the visualization tab at the top. We encourage everyone to visit the sponsor section and then to participate in as many socials and using the chat tool. If you need any help you can ask one of the on-call helpers on the #helpdesk channel in RocketChat.
 
@@ -117,7 +117,7 @@ This policy should be posted prominently on all ACL conference and workshop webp
 
 Approved by ACL Executive Committee, 2016
 
-Revised by ACL Executive Committee, July 15, 2018
+Revised by ACL Executive Committee, July 15, 2018-->
 
 
 
