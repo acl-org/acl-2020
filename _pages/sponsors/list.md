@@ -100,7 +100,7 @@ supporter:
   - image_path: /assets/images/logos/blank-logo.png
 dichampion:
   - url: https://deepmind.com
-    image_path: /assets/images/logos/deepmind.png
+    image_path: /assets/images/logos/deepmind-logo.png
     alt: "Deepmind Logo"
     title: "Deepmind"
   - url: https://www.microsoft.com
