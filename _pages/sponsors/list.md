@@ -63,6 +63,10 @@ gold:
     image_path: /assets/images/logos/twosigma-logo.jpg
     alt: "Two Sigma Logo"
     title: "Two Sigma"
+  - url: https://www.alibaba.com
+    image_path: /assets/images/logos/twosigma-logo.jpg
+    alt: "Alibaba Logo"
+    title: "Alibaba"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 silver:
