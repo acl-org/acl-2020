@@ -51,6 +51,18 @@ gold:
     image_path: /assets/images/logos/grammarly-logo.png
     alt: "grammarly Logo"
     title: "grammarly"
+  - url: https://www.bytedance.com
+    image_path: /assets/images/logos/bytedance-logo.png
+    alt: "Bytedance Logo"
+    title: "Bytedance"
+  - url: https://www.gresearch.co.uk
+    image_path: /assets/images/logos/gresearch.jpg
+    alt: "G-Research Logo"
+    title: "G-Research"
+  - url: https://www.twosigma.com
+    image_path: /assets/images/logos/twosigma-logo.jpg
+    alt: "Two Sigma Logo"
+    title: "Two Sigma"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 silver:
@@ -66,6 +78,10 @@ silver:
     image_path: /assets/images/logos/naver.jpg
     alt: "Naver Logo"
     title: "Naver"
+  - url: https://www.adobe.com
+    image_path: /assets/images/logos/Adobe.png
+    alt: "Adobe Logo"
+    title: "Adobe"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
