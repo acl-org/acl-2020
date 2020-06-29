@@ -119,7 +119,6 @@ Main Conference
     <td>2:00 PM - 3:00 PM</td>
   </tr>
   <tr>
-    <td>Main Conference</td>
     <td>Paper Q&A Session 6A</td>
     <td>10:00 PM - 11:00 PM</td>
   </tr>
@@ -261,8 +260,8 @@ Workshops
 
 <table>
   <tr>
-    <td> Name</td>
-    <td> Start Time - End time </td>
+    <th> Name</th>
+    <th> Start Time - End time </th>
   </tr>
   <tr>
     <td>W10: Representation Learning for NLP (RepL4NLP) Session 1</td>
@@ -321,8 +320,8 @@ Workshops
 
 <table>
   <tr>
-    <td> Name</td>
-    <td> Start Time - End time </td>
+    <th> Name</td>
+    <th> Start Time - End time </th>
   </tr>
   <tr>
     <td>W19: The Second Grand-Challenge and Workshop on Human Multimodal Language (Challenge-HML)</td>
