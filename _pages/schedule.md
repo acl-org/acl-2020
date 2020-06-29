@@ -320,7 +320,7 @@ Workshops
 
 <table>
   <tr>
-    <th> Name</td>
+    <th> Name</th>
     <th> Start Time - End time </th>
   </tr>
   <tr>
