@@ -91,8 +91,20 @@ Main Conference
     <td>6:00 AM - 7:00 AM</td>
   </tr>
   <tr>
-    <td>Plenary Session</td>
-    <td>7:00 AM - 9:00 AM</td>
+    <td>Opening Remarks</td>
+    <td>7:00 AM - 7:15 AM</td>
+  </tr>
+  <tr>
+    <td>Presidential Address</td>
+    <td>7:15 AM - 7:30 AM</td>
+  </tr>
+  <tr>
+    <td>Keynote by Prof. Kathleen R. McKeown</td>
+    <td>7:30 AM - 8:45 AM</td>
+  </tr>
+  <tr>
+    <td>Business Meeting Q&A </td>
+    <td>8:45 AM - 9:00 AM</td>
   </tr>
   <tr>
     <td>Group Mentoring Session 2</td>
@@ -158,8 +170,16 @@ Main Conference
     <td>6:00 AM - 7:00 AM</td>
   </tr>
   <tr>
-    <td>Plenary Session</td>
-    <td>7:00 AM - 9:00 AM</td>
+    <td>Lifetime Achievement Award</td>
+    <td>7:00 AM - 7:45 AM</td>
+  </tr>
+  <tr>
+    <td>Distinguished Service Award & Test of Time Awards</td>
+    <td>7:45 AM - 8:15 AM</td>
+  </tr>
+  <tr>
+    <td>Review Meeting Q&A</td>
+    <td>8:15 AM - 9:00 AM</td>
   </tr>
   <tr>
     <td>Group Mentoring Session 4</td>
@@ -225,8 +245,20 @@ Main Conference
     <td>6:00 AM - 7:00 AM</td>
   </tr>
   <tr>
-    <td>Plenary Session</td>
-    <td>7:00 AM - 9:00 AM</td>
+    <td>Keynote by Prof. Josh Tenenbaum </td>
+    <td>7:00 AM - 8:15 AM</td>
+  </tr>
+  <tr>
+    <td>Best Paper Award Ceremony</td>
+    <td>8:15 AM - 8:25 AM</td>
+  </tr>
+  <tr>
+    <td>Future Conferences</td>
+    <td>8:25 AM - 8:37 AM</td>
+  </tr>
+  <tr>
+    <td>Closing Remarks</td>
+    <td>8:37 AM - 8:49 AM</td>
   </tr>
   <tr>
     <td>Group Mentoring Session 5</td>
