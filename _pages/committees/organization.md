@@ -72,8 +72,6 @@ Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicat
 <h3>Virtual Infrastructure Chairs</h3>
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
 [Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond 
-
-<h3>Virtual Infrastructure Committee</h3>
 [Yi Luan](https://luanyi.github.io/), Google AI Language <br/>
 [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
 [Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington <br/>
