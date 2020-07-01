@@ -106,7 +106,7 @@ This tutorial will cover the theory and practice of reviewing research in natura
 
 Text generation has played an important role in various applications of natural language processing (NLP), and recent studies, researchers are paying increasing attention to modeling and manipulating the style of the generation text, which we call stylized text generation. In this tutorial, we will provide a comprehensive literature review in this direction. We start from the definition of style and different settings of stylized text generation, illustrated with various applications. Then, we present different settings of stylized generation, such as style-conditioned generation, style-transfer generation, and style-adversarial generation. In each setting, we delve deep into machine learning methods, including embedding learning techniques to represent style, adversarial learning, and reinforcement learning with cycle consistency to match content but to distinguish different styles. We also introduce current approaches to evaluating stylized text generation systems. We conclude our tutorial by presenting the challenges of stylized text generation and discussing future directions, such as small-data training, non-categorical style modeling, and a generalized scope of style transfer (e.g., controlling the syntax as a style).  
 
-See <a href="https://lili-mou.github.io/">https://sites.google.com/view/2020-stylized-text-generation/home</a> for the tutorial material.
+See <a href="https://sites.google.com/view/2020-stylized-text-generation/home">https://sites.google.com/view/2020-stylized-text-generation/home</a> for the tutorial material.
 
 			
 ### T5: Achieving Common Ground in Multi-modal Dialogue (Cutting-edge) <br/>
