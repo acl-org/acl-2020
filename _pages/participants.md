@@ -1,5 +1,5 @@
 ---
-title: Information for Participants
+title: Information for Participants/FAQs
 layout: single
 permalink: /participants/
 sidebar: false
@@ -14,6 +14,11 @@ toc_icon: "cog"
 ### Obtain the certificate of attendance
 
 For certificates of attendance, paid-in-full invoices (to use as receipts), and related documents required by your home institutions, please contact [Pat Kirby](mailto:acl.PatKirby@gmail.com). For other more general information, please contact [Priscilla Rasmusse](mailto:acl.rasmussen@gmail.com).
+
+### Trouble logging in to the virtual website
+If you have registered for ACL2020 and are following our directions
+in logging into the [virtual site](https://virtual.acl2020.org)  but still having trouble,
+reach out to our [help desk group](mailto:acl2020-virtual-helpdesk@googlegroups.com)
 
 <!--### What is the recommended way of using this site and navigating the conference?
 
@@ -122,7 +127,7 @@ Revised by ACL Executive Committee, July 15, 2018-->
 
 
 
-## Conference Venue
+<!--## Conference Venue
 
 ## Accommodation -- Cancelled
 
@@ -130,7 +135,7 @@ Revised by ACL Executive Committee, July 15, 2018-->
 
 ## Social Event -- Cancelled
 
-## Diversity & Inclusion Plans
+## Diversity & Inclusion Plans-->
 
 
 

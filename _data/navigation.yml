@@ -16,7 +16,7 @@ main:
   - title: "Registration"
     url: /registration
 
-  - title: "Participants"
+  - title: "Participants/FAQs"
     url: "/participants"
 
   - title: "Sponsors"
