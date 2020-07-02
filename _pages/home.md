@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/seattle/acl-banner.jpg"
-  caption: 'Photo by Jingya Chen'
+  caption: 'Design by Jingya Chen'
 excerpt: "<br/><br/>"
 ---
 <div class="text-center">
