@@ -1,8 +1,8 @@
 # main links
 main:
 
-  # - title: "Schedule"
-  #   url: /schedule/
+  - title: "Schedule"
+    url: /schedule/
 
   # - title: "LiveCaptions"
   #   url: /captions/
