@@ -3,8 +3,8 @@ title: "The 58th Annual Meeting of the Association for Computational Linguistics
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/seattle/unsplash.jpg"
-  caption: 'Photo by <a href="https://unsplash.com/@milkovi">Milkovi</a> on <a href="http://www.unsplash.com">Unsplash</a>'
+  overlay_image: "/assets/images/seattle/acl-banner-5.1.jpg"
+  caption: 'Photo by Jingya Chen'
 excerpt: "<br/><br/>"
 ---
 <div class="text-center">
