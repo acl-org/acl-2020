@@ -373,7 +373,7 @@ Workshops
   </tr>
   <tr>
     <td>W11: Natural Language Interfaces (NLI)</td>
-    <td>8:30 AM - 5:50 PM</td>
+    <td>8:15 AM - 5:50 PM</td>
   </tr>
   <tr>
     <td>W12: Workshop on Neural Generation and Translation (WNGT)</td>
