@@ -16,6 +16,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**July 3, 2020**. If you have registered for ACL2020, please wait till end of July 3rd for your welcome email which will contain your username and password to access the virtual site. Only then you can access the virtual website by following the [login instructions](https://acl2020.org/_pages/docs/ACL2020_virtual_website_login_steps.pdf).
+{: .notice--info}
+
 **June 19, 2020**. Checkout the new blogpost by tutorial chairs on the [organization and infrastructure of ACL2020 tutorials](/blog/intro-to-tutorial-infrastructure).
 {: .notice--info}
 
