@@ -356,6 +356,10 @@ Workshops
     <th> Start Time - End time </th>
   </tr>
   <tr>
+    <td>W16: E-Commerce and NLP (ECNLP)</td>
+    <td>5:30 AM - 2:15 PM</td>
+  </tr>
+  <tr>
     <td>W19: The Second Grand-Challenge and Workshop on Human Multimodal Language (Challenge-HML)</td>
     <td>6:00 AM - 1:45 PM</td>
   </tr>
