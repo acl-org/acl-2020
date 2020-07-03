@@ -16,17 +16,14 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**July 3, 2020**. Checkout the new blogpost by program chairs describing the [virtual format of plenary sessions](/blog/virtual-format-of-plenary-sessions/).
+{: .notice--info}
+
 **July 3, 2020**. If you have registered for ACL2020, please wait till end of July 3rd for your welcome email which will contain your username and password to access the virtual site. Only then you can access the virtual website by following the [login instructions](https://acl2020.org/_pages/docs/ACL2020_virtual_website_login_steps.pdf).
 {: .notice--info}
 
 **June 19, 2020**. Checkout the new blogpost by tutorial chairs on the [organization and infrastructure of ACL2020 tutorials](/blog/intro-to-tutorial-infrastructure).
 {: .notice--info}
-
-**June 16, 2020**. Checkout the new blogpost on [call for live microblogging volunteer](/blog/call-for-live-microblogging-volunteers). If you are an author, and you would rather not have your paper live microblogged, please see the post for details.
-{: .notice--info} 
-
-**June 8, 2020**. The [call for volunteer](/blog/call-for-volunteers) deadline has been extended to June 12! 
-{: .notice--info} 
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>

@@ -7,6 +7,12 @@ toc: false
 toc_icon: "cog"
 ---
 
+**June 16, 2020**. Checkout the new blogpost on [call for live microblogging volunteer](/blog/call-for-live-microblogging-volunteers). If you are an author, and you would rather not have your paper live microblogged, please see the post for details.
+{: .notice--info} 
+
+**June 8, 2020**. The [call for volunteer](/blog/call-for-volunteers) deadline has been extended to June 12! 
+{: .notice--info} 
+
 **June 5, 2020**. Checkout the new [blog post](/blog/general-conference-statistics/) on ACL2020 conference statistics! 
 {: .notice--info} 
 
