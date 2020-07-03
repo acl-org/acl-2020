@@ -26,8 +26,6 @@ business-meeting:
     title: ""
 ---
 
-<b>Program Chairs (Joyce Chai, Natalie Schluter, and Joel Tetreault) and General Chair (Dan Jurafsky), for the entire Organizing Committee</b>
-
 The first virtual ACL is quickly approaching!  Several weeks ago we described the format of this new conference in a [blog post](https://acl2020.org/blog/intro-to-conference-infrastructure/).  In this post, we wanted to give you more details about one aspect of the conference, the Plenary Sessions.  All three days of the main conference feature a two-hour plenary session with keynote talks, award sessions, and business and review meetings.  Each plenary starts at 7:00 PDT (14:00 UTC+0). Here is what to expect for each day:
 
 - July 6: Opening Remarks, Presidential Address, Keynote, Business Meeting Q&A
