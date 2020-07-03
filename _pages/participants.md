@@ -16,9 +16,7 @@ toc_icon: "cog"
 For certificates of attendance, paid-in-full invoices (to use as receipts), and related documents required by your home institutions, please contact [Pat Kirby](mailto:acl.PatKirby@gmail.com). For other more general information, please contact [Priscilla Rasmusse](mailto:acl.rasmussen@gmail.com).
 
 ### Trouble logging in to the virtual website
-If you have registered for ACL2020 and are following our directions
-in logging into the [virtual site](https://virtual.acl2020.org)  but still having trouble,
-reach out to our [help desk group](mailto:acl2020-virtual-helpdesk@googlegroups.com)
+If you have registered for ACL2020, please wait till end of July 3rd for your welcome email which will contain your username and password to access the virtual site. Only then you can access the virtual website by following the [login instructions](https://acl2020.org/_pages/docs/ACL2020_virtual_website_login_steps.pdf). 
 
 <!--### What is the recommended way of using this site and navigating the conference?
 
