@@ -18,8 +18,6 @@ For certificates of attendance, paid-in-full invoices (to use as receipts), and 
 ### Trouble logging in to the virtual website
 If you have registered for ACL2020, please wait till end of July 3rd for your welcome email which will contain your username and password to access the virtual site. Only then you can access the virtual website by following the [login instructions](https://acl2020.org/_pages/docs/ACL2020_virtual_website_login_steps.pdf). 
 
-After recieving the welcome email and following the login instructions, if you are still unable to login, then contact [acl2020-virtual-helpdesk@googlegroups.com](mailto:acl2020-virtual-helpdesk@googlegroups.com). 
-
 <!--### What is the recommended way of using this site and navigating the conference?
 
 All of ACL 2020 will be accessed through the main webpage. You can access all parts of the conference using the top menu bar. Check the Schedule to know when the live sessions for speakers Q&A and posters are taking place. You can navigate all the papers in the Papers section: you can search for keywords and authors, looking through all papers by skimming titles, or using the visualization tab at the top. We encourage everyone to visit the sponsor section and then to participate in as many socials and using the chat tool. If you need any help you can ask one of the on-call helpers on the #helpdesk channel in RocketChat.
