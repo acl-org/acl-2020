@@ -8,7 +8,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-Below is the overall schedule of the main conference, tutorials and workshops. Refer to the [ACL2020 anthology](https://www.aclweb.org/anthology/2020.acl-main.0.pdf) for the detailed schedule. 
+Below is the overall schedule of the main conference, tutorials and workshops. 
+
+You can find the detailed schedule in the [conference handbook available in 24 timezones](/participants/#conference-handbooks-for-24-timezones).
 
 Note that all timings are in Seattle, Pacific Daytime Time (UTC/GMT-7). On the ACL2020 virtual website (which will go live on July 3), you will be able to view the schedule in your timezone. 
 
