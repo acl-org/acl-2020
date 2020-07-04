@@ -96,7 +96,7 @@ bronze:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
-  - url: https://www.jhu.edu
+  - url: https://hltcoe.jhu.edu
     image_path: /assets/images/logos/jhu.jpg
     alt: "JHU Logo"
     title: "JHU"
