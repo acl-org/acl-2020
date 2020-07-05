@@ -11,19 +11,19 @@ tags:
 categories:
     blog
 
-modalities-before-tutorial:
-  - url: "/assets/images/blogs/modalities-before-tutorial.png"
-    image_path: "/assets/images/blogs/modalities-before-tutorial.png"
+modalities-before-tutorials:
+  - url: "/assets/images/blogs/modalities-before-tutorials.png"
+    image_path: "/assets/images/blogs/modalities-before-tutorials.png"
     alt: ""
     title: ""
-modalities-during-tutorial:
-  - url: "/assets/images/blogs/modalities-during-tutorial.png"
-    image_path: "/assets/images/blogs/modalities-during-tutorial.png"
+modalities-during-tutorials:
+  - url: "/assets/images/blogs/modalities-during-tutorials.png"
+    image_path: "/assets/images/blogs/modalities-during-tutorials.png"
     alt: ""
     title: ""
-modalities-after-tutorial:
-  - url: "/assets/images/blogs/modalities-after-tutorial.png"
-    image_path: "/assets/images/blogs/modalities-after-tutorial.png"
+modalities-after-tutorials:
+  - url: "/assets/images/blogs/modalities-after-tutorials.png"
+    image_path: "/assets/images/blogs/modalities-after-tutorials.png"
     alt: ""
     title: ""
 ---
@@ -45,12 +45,12 @@ The modalities of the <b>live sessions</b> greatly differ from one tutorial to a
 
 ### Before the tutorials
 
-{% include gallery id="modalities-before-tutorial" %}
+{% include gallery id="modalities-before-tutorials" %}
 
 ### During the tutorials
 
-{% include gallery id="modalities-during-tutorial" %}
+{% include gallery id="modalities-during-tutorials" %}
 
 ### After the tutorials
 
-{% include gallery id="modalities-after-tutorial" %}
+{% include gallery id="modalities-after-tutorials" %}
