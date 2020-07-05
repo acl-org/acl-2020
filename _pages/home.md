@@ -19,6 +19,9 @@ excerpt: "<br/><br/>"
 **July 4, 2020**. The [virtual ACL2020 website](https://virtual.acl2020.org/) is live! Everyone registered should have received a welcome email from acl2020virtual@gmail.com (please check spam and email other categories). Please follow [login instructions](https://acl2020.org/_pages/docs/ACL2020_virtual_website_login_steps.pdf).
 {: .notice--info}
 
+**July 4, 2020**. Checkout the new blogpost by tutorial chairs describing [detailed modalities of ACL2020 tutorials](/blog/detailed-modalities-of-tutorials/).
+{: .notice--info}
+
 **July 4, 2020**. Checkout the new blogpost by diversity & inclusion chairs describing their initiative for [increasing financial accessibility of ACL2020](/blog/increasing-financial-accessibility/).
 {: .notice--info}
 
