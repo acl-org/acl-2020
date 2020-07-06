@@ -1,5 +1,5 @@
 ---
-title: "The 58th Annual Meeting of the Association for Computational Linguistics"
+title: "The 58th Annual Meeting of the Association for <br/>Computational Linguistics"
 layout: splash
 permalink: /
 header:
