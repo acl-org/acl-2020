@@ -43,11 +43,9 @@ In selecting subsidy recipients, the subcommittee considered a number of factors
 
 The subcommittee granted D&I subsidies to 83 applicants, each receiving coverage for some combination of the conference registration fee, ACL membership fee, and internet bandwidth subsidy. In total, we awarded $8750 towards registration and membership fees, and offered another $250 (excluding fund-transfer fees) for internet bandwidth subsidies.   
 
-{% include gallery id="number-of-subsidy" %}
-Figure 1: Number of subsidy recipients grouped across different geographical regions.
+{% include gallery id="number-of-subsidy" %} Figure 1: Number of subsidy recipients grouped across different geographical regions.
 
-{% include gallery id="number-of-subsidy-map" %}
-Figure 2: Number of subsidy recipients across different countries. Darker shades denote more subsidy recipients.
+{% include gallery id="number-of-subsidy-map" %} Figure 2: Number of subsidy recipients across different countries. Darker shades denote more subsidy recipients.
 
 The figures above show the geographical distribution of subsidy recipients. We offered subsidies to researchers from 29 different countries. Subsidy offers to applicants residing in Sub-Saharan Africa made up roughly a quarter of subsidies, with Europe and UK, US, and South Asia constituting the regions with the next most subsidies. Less represented regions included Middle East and North Africa, Latin America, Southeast Asia, and East Asia, each with less than 10 subsidies. We recommend future conferences to continue prioritizing outreach to researchers from underrepresented regions to better bridge the gaps and make our community more inclusive. 
 
@@ -57,7 +55,7 @@ Additionally, to assist with conference attendees’ writing needs, access codes
 
 ### Concluding remarks
 
-The Financial Access subcommittee thanks the ACL 2020 D&I Champion sponsors ([DeepMind](https://virtual.acl2020.org/sponsor_5.html) and [Microsoft](https://virtual.acl2020.org/sponsor_17.html)) and D&I In-Kind sponsor ([Grammarly](https://virtual.acl2020.org/sponsor_10.html)) that enabled us to provide financial subsidies to more than 80 conference participants. While the shift to a virtual conference format necessitated a change in approach, the shift ultimately opened the doors for a broader range of researchers in our community. In the future, we recommend considering new ways for integrating virtual access into our conferences, to maximize reaching diverse audiences. 
+The Financial Access subcommittee thanks the ACL 2020 D&I Champion sponsors ([DeepMind](https://virtual.acl2020.org/sponsor_5.html) and [Microsoft](https://virtual.acl2020.org/sponsor_17.html)) and D&I In-Kind sponsor ([Grammarly](https://virtual.acl2020.org/sponsor_10.html)) that enabled us to provide financial subsidies to more than 80 conference participants and writing support to over a thousand authors. While the shift to a virtual conference format necessitated a change in approach, the shift ultimately opened the doors for a broader range of researchers in our community. In the future, we recommend considering new ways for integrating virtual access into our conferences, to maximize reaching diverse audiences. 
 
 
 
