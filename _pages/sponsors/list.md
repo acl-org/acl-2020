@@ -41,14 +41,14 @@ platinum:
     alt: "IBM Logo"
     title: "IBM" 
   - url: https://fb.com
-    image_path: /assets/images/logos/fb.png
+    image_path: /assets/images/logos/Facebook-AI2020.png
     alt: "Facebook Logo"
     title: "Facebook" 
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 gold:
   - url: https://www.grammarly.com
-    image_path: /assets/images/logos/grammarly-logo.png
+    image_path: /assets/images/logos/Grammarly-Final2020.png
     alt: "grammarly Logo"
     title: "grammarly"
   - url: https://www.bytedance.com
@@ -56,7 +56,7 @@ gold:
     alt: "Bytedance Logo"
     title: "Bytedance"
   - url: https://www.gresearch.co.uk
-    image_path: /assets/images/logos/gresearch.jpg
+    image_path: /assets/images/logos/g-research-logo.png
     alt: "G-Research Logo"
     title: "G-Research"
   - url: https://www.twosigma.com
@@ -96,12 +96,15 @@ bronze:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
-  - url: https://hltcoe.jhu.edu
+  - url: https://hltcoe.jhu.edu/opportunities/research-scientists/
     image_path: /assets/images/logos/jhu.jpg
     alt: "JHU Logo"
     title: "JHU"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
+publisher:
+  - url: http://www.cambridge.org/acl2020
+    image_path: /assets/images/logos/CUP-logo.png
+    alt: "CUP Logo"
+    title: "CUP"
 dichampion:
   - url: https://deepmind.com
     image_path: /assets/images/logos/deepmind-logo.png
@@ -113,15 +116,9 @@ dichampion:
     title: "Microsoft"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
-dially:
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
-dicontributor:
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 diinkind:
   - url: https://www.grammarly.com
-    image_path: /assets/images/logos/grammarly-logo.png
+    image_path: /assets/images/logos/Grammarly-Final2020.png
     alt: "grammarly Logo"
     title: "grammarly"
   - image_path: /assets/images/logos/blank-logo.png
@@ -162,21 +159,13 @@ These sponsors donated funds specifically to facilitate participation in ACL 202
 
 {% include gallery id="supporter" class="fourth" %}
 
-## In-Kind Donations
+## Publisher
 
-{% include gallery id="inkind" class="fourth" %}
+{% include gallery id="publisher" class="fourth" %}
 
 ## Diversity &amp; Inclusion: Champion
 
 {% include gallery id="dichampion" class="fourth" %}
-
-## Diversity &amp; Inclusion: Ally
-
-{% include gallery id="dially" class="fourth" %}
-
-## Diversity &amp; Inclusion: Contributor
-
-{% include gallery id="dicontributor" class="fourth" %}
 
 ## Diversity &amp; Inclusion: In-Kind
 
