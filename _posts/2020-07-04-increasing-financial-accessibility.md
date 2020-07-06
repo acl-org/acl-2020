@@ -1,6 +1,6 @@
 ---
 title: "Increasing financial accessibility of ACL 2020"
-author: diversity-inclusion-chairs
+author: financial-access-chairs 
 author_profile: true
 excerpt: ""
 tags:

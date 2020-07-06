@@ -22,7 +22,7 @@ excerpt: "<br/><br/>"
 **July 4, 2020**. Checkout the new blogpost by tutorial chairs describing [detailed modalities of ACL2020 tutorials](/blog/detailed-modalities-of-tutorials/).
 {: .notice--info}
 
-**July 4, 2020**. Checkout the new blogpost by diversity & inclusion chairs describing their initiative for [increasing financial accessibility of ACL2020](/blog/increasing-financial-accessibility/).
+**July 4, 2020**. Checkout the new blogpost by D&I financial access chairs describing their initiative for [increasing financial accessibility of ACL2020](/blog/increasing-financial-accessibility/).
 {: .notice--info}
 
 **July 3, 2020**. Checkout the new blogpost by program chairs describing the [virtual format of plenary sessions](/blog/virtual-format-of-plenary-sessions/).
