@@ -42,6 +42,12 @@ accessibility-chairs:
   bio         : "Sushant Kafle, Masoud Rouhizadeh &amp; Naomi Saphra"
   avatar      : "assets/images/logos/acl-logo.png"
 
+financial-access-chairs:
+  name        : "D&amp;I Financial Access Chairs"
+  email       : "acl2020-diversity-inclusion-chairs@googlegroups.com"
+  bio         : "Tirthankar Ghosal, Allyson Ettinger &amp; Ryan Georgi"
+  avatar      : "assets/images/logos/acl-logo.png"
+
 accessibility-chairs-v2:
   name        : "D&amp;I Accessibility Chairs"
   email       : "acl2020-diversity-inclusion-chairs@googlegroups.com"

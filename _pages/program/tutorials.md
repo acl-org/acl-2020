@@ -51,6 +51,8 @@ t8:
     title: ""
 ---
 
+<b>NEW:</b> Checkout the new blogpost by tutorial chairs describing [detailed modalities of ACL2020 tutorials](/blog/detailed-modalities-of-tutorials/).
+
 The following tutorials will be held on Sunday, July 5th, 2020. 
 Checkout [this blog post](/blog/intro-to-tutorial-infrastructure) by tutorial chairs to learn more about the new virtual format of tutorials.
 

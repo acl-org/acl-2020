@@ -1,5 +1,5 @@
 ---
-title: "The 58th Annual Meeting of the Association for Computational Linguistics"
+title: "The 58th Annual Meeting of the Association for <br/>Computational Linguistics"
 layout: splash
 permalink: /
 header:
@@ -16,13 +16,16 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**July 4, 2020**. The [virtual ACL2020 website](https://virtual.acl2020.org/) is live! Everyone registered should have received a welcome email from acl2020virtual@gmail.com (please check spam and email other categories). Please follow [login instructions](https://acl2020.org/_pages/docs/ACL2020_virtual_website_login_steps.pdf).
+{: .notice--info}
+
+**July 4, 2020**. Checkout the new blogpost by tutorial chairs describing [detailed modalities of ACL2020 tutorials](/blog/detailed-modalities-of-tutorials/).
+{: .notice--info}
+
+**July 4, 2020**. Checkout the new blogpost by D&I financial access chairs describing their initiative for [increasing financial accessibility of ACL2020](/blog/increasing-financial-accessibility/).
+{: .notice--info}
+
 **July 3, 2020**. Checkout the new blogpost by program chairs describing the [virtual format of plenary sessions](/blog/virtual-format-of-plenary-sessions/).
-{: .notice--info}
-
-**July 3, 2020**. If you have registered for ACL2020, please wait till end of July 3rd for your welcome email which will contain your username and password to access the virtual site. Only then you can access the virtual website by following the [login instructions](https://acl2020.org/_pages/docs/ACL2020_virtual_website_login_steps.pdf).
-{: .notice--info}
-
-**June 19, 2020**. Checkout the new blogpost by tutorial chairs on the [organization and infrastructure of ACL2020 tutorials](/blog/intro-to-tutorial-infrastructure).
 {: .notice--info}
 
 <div class="text-center">
