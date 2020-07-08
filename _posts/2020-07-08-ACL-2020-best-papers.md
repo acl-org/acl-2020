@@ -12,7 +12,7 @@ categories:
 
 Congratulations to the recipients of the best paper awards at ACL 2020!
 
-# Best Paper
+## Best Paper
 
 <b>Beyond Accuracy: Behavioral Testing of NLP Models with CheckList</b><br/>
 Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin and Sameer Singh
@@ -27,7 +27,7 @@ Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug
 Nitika Mathur, Timothy Baldwin and Trevor Cohn
 
 
-# Best Theme Paper
+## Best Theme Paper
 
 <b>Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data</b><br/>
 Emily M. Bender and Alexander Koller
@@ -38,7 +38,7 @@ Emily M. Bender and Alexander Koller
 Tal Linzen
 
 
-# Best Demo Paper
+## Best Demo Paper
 
 <b>GAIA: A Fine-grained Multimedia Knowledge Extraction System</b><br/>
 Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, BRIAN CHEN, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski and Marjorie Freedman
