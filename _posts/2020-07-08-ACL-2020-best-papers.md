@@ -38,12 +38,12 @@ Emily M. Bender and Alexander Koller
 Tal Linzen
 
 
-## Best Demo Paper
+## Best Demonstration Paper
 
 <b>GAIA: A Fine-grained Multimedia Knowledge Extraction System</b><br/>
 Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, BRIAN CHEN, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski and Marjorie Freedman
 
-## Honorable Mention -- Demo Papers
+## Honorable Mention Papers -- Demonstrations
 
 <b>Torch-Struct: Deep Structured Prediction Library</b><br/>
 Alexander Rush
